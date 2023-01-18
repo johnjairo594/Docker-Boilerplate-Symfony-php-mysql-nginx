@@ -1,4 +1,4 @@
-# Docker-Symfony-5-php-mysql-nginx-Rabbitmq
+# Docker-Symfony-5-php-mysql-nginx
 Docker containers: Symfony 5 + php7.4.6-fpm + mysql8 + nginx 1.19
 
 - Being in the root of the project execute `make run` to start the containers
