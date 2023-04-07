@@ -1,4 +1,4 @@
-FROM nginx:1.19
+FROM nginx:stable-alpine
 
 ARG UID
 EXPOSE $UID
