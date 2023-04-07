@@ -1,5 +1,5 @@
-# Docker-Symfony-5-php-mysql-nginx
-Docker containers: Symfony 5 + php7.4.6-fpm + mysql8 + nginx 1.19
+# Docker-Symfony-6-php8.2-mysql-nginx
+Docker containers: Symfony 6+ php8.2-fpm + mysql8 + nginx 1.19
 
 - Being in the root of the project execute `make run` to start the containers
 - Run `make ssh-be` to access the php container
